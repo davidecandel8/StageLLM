@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/GPT-3.5 Turbo Chat Interface.iml" filepath="$PROJECT_DIR$/.idea/GPT-3.5 Turbo Chat Interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/OllamaLLM.iml" filepath="$PROJECT_DIR$/.idea/OllamaLLM.iml" />
     </modules>
   </component>
 </project>
